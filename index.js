@@ -1,4 +1,4 @@
-let name = "Joe";
+let name = "Susan";
 let height = "74";
 
 if(name === "Susan"){
